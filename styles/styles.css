@@ -4,7 +4,9 @@
 
 body {
     margin: 0;
-    background: #dedede;
+    background-image: url(../images/chewbacca.jpg);
+    background-size: cover;
+    
     display: flex;
     align-items: center;
     height: 100vh;
